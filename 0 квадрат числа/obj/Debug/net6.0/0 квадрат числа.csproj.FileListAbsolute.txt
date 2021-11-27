@@ -1,0 +1,15 @@
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\0 квадрат числа\bin\Debug\net6.0\0 квадрат числа.exe
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\0 квадрат числа\bin\Debug\net6.0\0 квадрат числа.deps.json
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\0 квадрат числа\bin\Debug\net6.0\0 квадрат числа.runtimeconfig.json
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\0 квадрат числа\bin\Debug\net6.0\0 квадрат числа.dll
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\0 квадрат числа\bin\Debug\net6.0\ref\0 квадрат числа.dll
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\0 квадрат числа\bin\Debug\net6.0\0 квадрат числа.pdb
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\0 квадрат числа\obj\Debug\net6.0\0 квадрат числа.csproj.AssemblyReference.cache
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\0 квадрат числа\obj\Debug\net6.0\0 квадрат числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\0 квадрат числа\obj\Debug\net6.0\0 квадрат числа.AssemblyInfoInputs.cache
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\0 квадрат числа\obj\Debug\net6.0\0 квадрат числа.AssemblyInfo.cs
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\0 квадрат числа\obj\Debug\net6.0\0 квадрат числа.csproj.CoreCompileInputs.cache
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\0 квадрат числа\obj\Debug\net6.0\0 квадрат числа.dll
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\0 квадрат числа\obj\Debug\net6.0\ref\0 квадрат числа.dll
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\0 квадрат числа\obj\Debug\net6.0\0 квадрат числа.pdb
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\0 квадрат числа\obj\Debug\net6.0\0 квадрат числа.genruntimeconfig.cache
