@@ -1,0 +1,15 @@
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task004\bin\Debug\net6.0\Task004.exe
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task004\bin\Debug\net6.0\Task004.deps.json
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task004\bin\Debug\net6.0\Task004.runtimeconfig.json
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task004\bin\Debug\net6.0\Task004.dll
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task004\bin\Debug\net6.0\ref\Task004.dll
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task004\bin\Debug\net6.0\Task004.pdb
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task004\obj\Debug\net6.0\Task004.csproj.AssemblyReference.cache
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task004\obj\Debug\net6.0\Task004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task004\obj\Debug\net6.0\Task004.AssemblyInfoInputs.cache
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task004\obj\Debug\net6.0\Task004.AssemblyInfo.cs
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task004\obj\Debug\net6.0\Task004.csproj.CoreCompileInputs.cache
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task004\obj\Debug\net6.0\Task004.dll
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task004\obj\Debug\net6.0\ref\Task004.dll
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task004\obj\Debug\net6.0\Task004.pdb
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task004\obj\Debug\net6.0\Task004.genruntimeconfig.cache
