@@ -1,10 +1,7 @@
 ﻿// Дано число из отрезка [10, 99]. Показать наибольшую цифру числа
-int[] mas = Console.ReadLine().Split(' ').Select(m => Convert.ToInt32(m)).ToArray();
-            int max = int.MinValue;
-            for (int i = 0; i < mas.Length; i++)
-            { 
-            if(mas[i]>max)
-                max=mas[i];
-            }
-                Console.WriteLine(max);
-            Console.ReadLine();
+int numberRandom = new Random().Next(10,100);
+Console.WriteLine($"Число из отрезка [10, 99] равно {numberRandom}");
+if (numberRandom % 10 > numberRandom / 10)
+Console.WriteLine($"Наибольшая цифра числа равна {numberRandom % 10}");
+else
+Console.WriteLine($"Наибольшая цифра числа равна {numberRandom / 10}");
