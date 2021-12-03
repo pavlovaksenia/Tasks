@@ -1,5 +1,6 @@
 ﻿// Показать вторую цифру трёхзначного числа
-Console.WriteLine("Введите значение числа n ");
-string text = Console.ReadLine();
-int n = text[text.Length - 1] - '0';
-Console.WriteLine("Последняя цифра числа", n);
+Console.WriteLine("Введите значение трехзначного числа");
+int N = Convert.ToInt32 (Console.ReadLine());
+int mod = N % 100/10;
+Console.Write("Вторая цифра числа ");
+Console.WriteLine(mod);
