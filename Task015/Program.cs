@@ -1,5 +1,5 @@
 ﻿// Дано число. Проверить кратно ли оно 7 и 23
-int numberRandom = new Random().Next(7,10000);
+int numberRandom = new Random().Next(6,10000);
 Console.WriteLine($"Выбрано число {numberRandom}");
 if (numberRandom % 7 == 0)
 Console.WriteLine($" Число {numberRandom} кратно 7");
