@@ -3,10 +3,9 @@ Console.WriteLine("Введите число А");
 int A = Convert.ToInt32 (Console.ReadLine());
 Console.WriteLine("Введите число B");
 int B = Convert.ToInt32 (Console.ReadLine());
-int Quotient (int n)
+int deg = 1;
+for(int i=1; i<=B; i++)
 {
-    int q = A*B;
-    return q;
+    deg = deg * A;
 }
-Console.Write($"{A}^{B} = ");
-Console.WriteLine(Quotient(A*B));
+Console.WriteLine($"{A}^{B} = {deg}");

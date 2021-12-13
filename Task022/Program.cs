@@ -1,28 +1,28 @@
 ﻿// Найти расстояние между точками в пространстве 2D/3D
-Console.WriteLine("Введите координаты точки А1");
-double A1 = Convert.ToInt32 (Console.ReadLine());
-Console.WriteLine("Введите координаты точки А2");
-double A2 = Convert.ToInt32 (Console.ReadLine());
-Console.WriteLine("Введите координаты точки А3");
-double A3 = Convert.ToInt32 (Console.ReadLine());
-Console.WriteLine("Введите координаты точки B1");
-double B1 = Convert.ToInt32 (Console.ReadLine());
-Console.WriteLine("Введите координаты точки B2");
-double B2 = Convert.ToInt32 (Console.ReadLine());
-Console.WriteLine("Введите координаты точки B3");
-double B3 = Convert.ToInt32 (Console.ReadLine());
-double Distance (double A1)
+Console.WriteLine("Введите три координаты первой точки");
+
+double x1 = Convert.ToDouble (Console.ReadLine());
+double y1 = Convert.ToDouble (Console.ReadLine());
+double z1 = Convert.ToDouble (Console.ReadLine());
+
+Console.WriteLine("Введите три координаты второй точки");
+
+double x2 = Convert.ToDouble (Console.ReadLine());
+double y2 = Convert.ToDouble (Console.ReadLine());
+double z2 = Convert.ToDouble (Console.ReadLine());
+
+double Distance (double x1)
 {
-    double dis = Math.Sqrt((B1*B1-2*B1*A1+A1*A1)+(B2*B2-2*B2*A2+A2*A2));
+    double dis = Math.Sqrt(Math.Pow(x2 - x1,2)+ Math.Pow(y2 - y1,2));
     return dis;
 }
 Console.Write("Расстояние между точками в пространстве 2D равняется ");
-Console.WriteLine(Distance(A1));
+Console.WriteLine(Distance(x1));
 
-double Distance2 (double A1)
+double Distance2 (double x1)
 {
-    double dis = Math.Sqrt((B1*B1-2*B1*A1+A1*A1)+(B2*B2-2*B2*A2+A2*A2)+(B3*B3-2*B3*A3+A3*A3));
+    double dis = Math.Sqrt(Math.Pow(x2 - x1,2) + Math.Pow(y2 - y1,2) + Math.Pow(z2 - z1,2));
     return dis;
 }
 Console.Write("Расстояние между точками в пространстве 3D равняется ");
-Console.WriteLine(Distance2(A1));
+Console.WriteLine(Distance2(x1));
