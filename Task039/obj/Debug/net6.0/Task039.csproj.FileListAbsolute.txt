@@ -1,0 +1,5 @@
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task039\obj\Debug\net6.0\Task039.csproj.AssemblyReference.cache
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task039\obj\Debug\net6.0\Task039.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task039\obj\Debug\net6.0\Task039.AssemblyInfoInputs.cache
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task039\obj\Debug\net6.0\Task039.AssemblyInfo.cs
+C:\Users\Талгат\Desktop\Ксюша\Введение в програмирование\Задачи\Task039\obj\Debug\net6.0\Task039.csproj.CoreCompileInputs.cache
